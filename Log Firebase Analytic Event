@@ -1,4 +1,4 @@
-// Learn more about user behavior by tracking feature utilization
+// Learn more about where your users are dropping off in various feature flows
     
 public void TrackedFeatureName()
 {
