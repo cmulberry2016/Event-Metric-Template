@@ -1,0 +1,8 @@
+// Learn more about user behavior by tracking feature utilization
+    
+public void TrackedFeatureName()
+{
+
+  Firebase.Analytics.FirebaseAnalytics.LogEvent("feature_name");
+    
+}
